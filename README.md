@@ -29,7 +29,7 @@ This project aims to predict whether an e-commerce shipment will reach its desti
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/heisenberg-611/CSE422-Final-ML-Project-Spring26.git
+   git clone https://github.com/heisenberg-611/E-Commerce-Website-Delivery-Prediction-Model.git
    cd "CSE422 Final ML Project Spring26"
    ```
 
